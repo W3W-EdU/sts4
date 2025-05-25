@@ -14,7 +14,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.4.0</version>
-		<relativePath></relativePath>
+		<relativePath/>
 	</parent>
 
 	<modules>
@@ -121,7 +121,7 @@
 		<rewrite-recipe-bom.version>2.22.0</rewrite-recipe-bom.version>
 		<gradle.version>8.11</gradle.version>
 		<rewrite-gradle-tooling-model.version>2.7.0</rewrite-gradle-tooling-model.version>
-		<jgit-version>6.9.0.202403050737-r</jgit-version>
+		<jgit-version>6.10.1.202505221210-r</jgit-version>
 		
 		<antlr.version>4.13.1</antlr.version>
 
